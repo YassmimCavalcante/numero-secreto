@@ -31,10 +31,6 @@ Como funciona
 Objetivo
 
 Praticar lógica de programação e manipulação de dados com JavaScript.
-
-Como executar
-
-Basta abrir o arquivo index.html no navegador.
 ---
 
 Desenvolvido por Yasmim Cavalcante.
